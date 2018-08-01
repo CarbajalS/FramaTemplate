@@ -1,3 +1,8 @@
+# URL de tu sitio web.
 baseurl: "https://carbajals.github.io/FramaTemplate"
-rgb1: "#e6e6e6"
-rgb2: "#222222"
+
+#Color principal de tu sitio web
+rgb1: "#222222"
+
+#Color secundario de tu sitio web
+rgb2: "#FFFFFF"
