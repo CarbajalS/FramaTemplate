@@ -8,11 +8,11 @@ body {
 
 .header {
 width:100%;
+padding:1em;
 }
 
 .header p {
 font-size:2em;
-padding:16px;
 text-align:center;
 font-weight:bold;
 }
