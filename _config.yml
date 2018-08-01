@@ -15,4 +15,7 @@ rgb2: "#FFFFFF"
 rgb3: "#FFFFFF"
 
 # Color de texto 2
-rgb4: "yellow"
+rgb4: "#000000"
+
+# Tamaño de fuente (expresado en pixeles)
+font_size: "13px"
