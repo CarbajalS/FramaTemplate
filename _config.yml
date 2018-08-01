@@ -1,3 +1,7 @@
+# Bienvenido a FramaTemplate©
+# Powered by Carbajal'Studios
+# Tema 100% español (Open Source)
+
 # URL de tu sitio web.
 baseurl: "https://carbajals.github.io/FramaTemplate"
 
@@ -6,3 +10,9 @@ rgb1: "#222222"
 
 #Color secundario de tu sitio web
 rgb2: "#FFFFFF"
+
+# Color de texto 1
+rgb3: "#FFFFFF"
+
+# Color de texto 2
+rgb4: "#000000"
