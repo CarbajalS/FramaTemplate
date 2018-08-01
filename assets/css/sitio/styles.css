@@ -4,7 +4,6 @@ padding:0;
 }
 
 body {
-font-size:13px;
 }
 
 .header {
@@ -14,7 +13,7 @@ height:3em;
 
 .header p {
 font-size:2em;
-padding:.5em 0px;
+padding:0.5em 0em 0.5em 0em;
 text-align:center;
 font-weight:bold;
 }
