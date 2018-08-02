@@ -7,9 +7,21 @@ padding:0;
 width:100%;
 }
 
-.header p {
+.header .titleweb {
 font-size:2em;
 padding:.5em 0px;
 text-align:center;
 font-weight:bold;
 }
+
+.header .reordermenu {
+font-size:2em;
+padding:.5em 0px;
+font-weight:bold;
+text-align:right;
+}
+
+
+
+
+
